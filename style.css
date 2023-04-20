@@ -1,0 +1,45 @@
+
+  
+/* div{
+    display: flex;
+    padding:20px;
+    color:rgb(0, 0, 0)
+    
+} */
+
+ul{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap:wrap;
+    padding: 0;
+}
+
+li{
+    width: 135px;
+    padding: 10px;
+    border-radius: 20px;
+    list-style-type: none;
+    margin: 5px;
+    background-color: rgb(212, 209, 209);
+}
+button{
+    background-color:rgb(212, 209, 209); 
+    padding:10px;
+    min-height:30px; 
+    min-width: 100px;
+    /* position: absolute; */
+    top:156%;
+  }
+  nav{
+      display: flex;
+      justify-content: space-around
+  }
+  .toDoElement label{
+      display: flex;
+  }
+  .toDoElement p{
+      margin: 0;
+  } 
+  .img{
+      height
+  }
